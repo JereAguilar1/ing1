@@ -1,3 +1,6 @@
+#GRUPO CONFORMADO POR: Jeremias aguilar, Francisco Lozano, Ivo iriarte y Juan Emilio Pardo
+
+
 # sei-quality-attributes
 
 Plugin de skills para Claude Code que aplica el método de atributos de calidad y árboles de utilidad de *Software Architecture in Practice* (Bass, Clements & Kazman) — capítulos 4, 19 y 21.
